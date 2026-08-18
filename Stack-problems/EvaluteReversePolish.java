@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class RPN {
     public int evalRPN(String[] tokens) {
 
         Stack<Integer> stack = new Stack<>();
